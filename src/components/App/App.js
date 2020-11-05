@@ -2,13 +2,13 @@ import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import './App.css';
 
-import Header from '../Header/Header.js';
-import Footer from '../Footer/Footer.js';
-import Rate from '../Rate/Rate.js'
-import Points from '../Points/Points.js';
-import Contacts from '../Contacts/Contacts.js';
-import About from '../About/About.js';
-import ErrorPage from '../ErrorPage/ErrorPage.js';
+import Header from '../../components/Header/Header.js';
+import Footer from '../../components/Footer/Footer.js';
+import Rate from '../../components/Rate/Rate.js'
+import Points from '../../components/Points/Points.js';
+import Contacts from '../../components/Contacts/Contacts.js';
+import About from '../../components/About/About.js';
+import ErrorPage from '../../components/ErrorPage/ErrorPage.js';
 
 
 
